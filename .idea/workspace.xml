@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4574b7b3-944b-4aa6-a900-36588caa2e5e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/images/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/images/wait.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/images/sec-unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/images/sec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/footer-corner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/head.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/icons-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/loupe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/menu-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-02.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-04.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-05.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-06.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/sidebar-corners-form.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/sidebar-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/sidebar-header-border.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/top-menu-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/top-menu-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/preview.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/screen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/preview.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/screen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/ajax.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/ajax.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/blog/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/blog/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/blog/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/forum/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/forum/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/forum/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/en/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/en/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/en/page_templates/.content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/ru/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/ru/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/ru/page_templates/.content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/.content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/lang/de/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/forum/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/forum/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/forum/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/standard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/result_modifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/result_modifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/compare.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/element.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/lang/en/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/lang/ru/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/lang/ua/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/sections.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/lang/en/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/lang/ru/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/lang/ua/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/lang/en/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/lang/ru/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/lang/ua/.description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news.list/left/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/en/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/ru/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/ua/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/en/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ru/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ua/.parameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/lang/en/detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/lang/ru/detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/lang/ua/detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ua/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ua/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ua/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/template_styles.css" />
+    </list>
+    <ignored path="bitrixstandart.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bitrixstandart" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="462" />
+    <option name="width" value="1145" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OpenServer\domains\bitrixstandart\local" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4574b7b3-944b-4aa6-a900-36588caa2e5e" name="Default" comment="" />
+      <created>1499702339666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499702339666</updated>
+      <workItem from="1499702341514" duration="4463000" />
+      <workItem from="1499775685488" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4793000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="462" y="0" width="1145" height="867" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26175115" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39815667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsFNZbAnr98pSic01pnW+MKE1x3OLBaqSAJ5Ku6YzsPtTNfEkGtfkI+SqEkV+BGqXwiac6hvC55fBkYrUUT5ejdqaJQj2/+2LFpaCE33tZk43nKwGhb997LYg/LmIvIRfscmsLH1Tnsc7ByALSJjYkzQrIy3/3Ko2LHjWhM0epfNVzZSMhCaeqCkgdqi6Ojs+ssqAhlJOpsO3PGkqTZG7+keVU3S91ST4EsFUTHP/OL201VABinEMdc1wUWDhFcWnRw==</data>
+  </component>
+</project>
