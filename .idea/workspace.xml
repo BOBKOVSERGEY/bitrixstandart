@@ -2,170 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4574b7b3-944b-4aa6-a900-36588caa2e5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/images/shadow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/images/wait.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/images/sec-unlocked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/images/sec.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/footer-corner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/head.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/icons-sprite.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/loupe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/menu-arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-04.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-06.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/product-overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/sidebar-corners-form.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/sidebar-corners.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/sidebar-header-border.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/top-menu-arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/images/top-menu-corners.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/screen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/screen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/ajax.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/ajax/ajax.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/blog/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/blog/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/blog/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/forum/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/forum/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/components/bitrix/system.pagenavigation/forum/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/en/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/en/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/en/page_templates/.content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/ru/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/ru/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/lang/ru/page_templates/.content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/.content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/lang/de/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/bp/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/forum/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/forum/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/forum/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/page_templates/standard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog.section/furniture/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/bitrix/catalog.element/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/compare.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/element.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/lang/ua/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/section.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/catalog/.default/sections.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/lang/en/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/lang/ru/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/lang/ua/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/bottom/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/lang/en/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/lang/ru/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/lang/ua/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/menu/left/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news.list/left/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/lang/ua/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.detail/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ua/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/bitrix/news.list/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/lang/en/detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/lang/ru/detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/news/.default/lang/ua/detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/search.form/flat/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.authorize/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.changepasswd/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.confirmation/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.forgotpasswd/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.form/personal/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/components/bitrix/system.auth.registration/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/en/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ru/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ua/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ua/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/lang/ua/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/furniture_pale-blue/template_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/company/.left.menu.php" afterPath="$PROJECT_DIR$/company/.left.menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="bitrixstandart.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +25,90 @@
     <favorites_list name="bitrixstandart" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="urlrewrite.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urlrewrite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="otzyvy.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/company/otzyvy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="e#139#180#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/s1/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site_closed.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/site_closed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -190,6 +117,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/bitrix/php_interface/include/functions.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/php_interface/include/siteCloused.php" />
+        <option value="$PROJECT_DIR$/bitrix/php_interface/s1/init.php" />
+        <option value="$PROJECT_DIR$/bitrix/php_interface/init.php" />
+        <option value="$PROJECT_DIR$/company/otzyvy.php" />
       </list>
     </option>
   </component>
@@ -201,8 +134,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="462" />
-    <option name="width" value="1145" />
+    <option name="x" value="765" />
+    <option name="width" value="842" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -260,11 +193,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="company" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,26 +277,27 @@
       <option name="presentableId" value="Default" />
       <updated>1499702339666</updated>
       <workItem from="1499702341514" duration="4463000" />
-      <workItem from="1499775685488" duration="330000" />
+      <workItem from="1499775685488" duration="888000" />
+      <workItem from="1500020074500" duration="5485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4793000" />
+    <option name="totallyTimeSpent" value="10836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="462" y="0" width="1145" height="867" extended-state="0" />
-    <editor active="false" />
+    <frame x="765" y="0" width="842" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26175115" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39815667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32097188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -396,6 +326,64 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/company/history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlrewrite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#139#180#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/site_closed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/s1/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -404,8 +392,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/modules/main/classes/general/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="476" column="6" selection-start-line="476" selection-start-column="6" selection-end-line="476" selection-end-column="6" />
+          <folding>
+            <marker date="1499771580693" expanded="true" signature="64237:64538" ph="SELECT MG.G_... b_group" />
+            <marker date="1499771580693" expanded="true" signature="68044:68309" ph="SELECT max(M... b_module_group" />
+            <marker date="1499771580693" expanded="true" signature="69441:69723" ph="SELECT MG.G_... b_module_group" />
+            <marker date="1499771580693" expanded="true" signature="71417:71541" ph="SELECT G_ACC... b_module_group" />
+            <marker date="1499771580693" expanded="true" signature="73148:73286" ph="SELECT GROUP... b_module_group" />
+            <marker date="1499771580693" expanded="true" signature="73578:73697" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="73813:73901" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="74039:74111" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="77170:77334" ph="SELECT DOMAI... " />
+            <marker date="1499771580693" expanded="true" signature="77803:77840" ph="SELECT * FRO... b_lang_domain" />
+            <marker date="1499771580693" expanded="true" signature="107112:107183" ph="SELECT 'x' F... b_lang" />
+            <marker date="1499771580693" expanded="true" signature="107634:107693" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="108214:108320" ph="INSERT INTO b_lang_domain... " />
+            <marker date="1499771580693" expanded="true" signature="108370:108464" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="108846:108885" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="109000:109068" ph="INSERT INTO b_lang... " />
+            <marker date="1499771580693" expanded="true" signature="109579:109863" ph="INSERT INTO b_site_template... " />
+            <marker date="1499771580693" expanded="true" signature="110403:110442" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="110582:110650" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="111108:111172" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="111309:111580" ph="INSERT INTO b_site_template... " />
+            <marker date="1499771580693" expanded="true" signature="112744:112816" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="112856:112917" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="113039:113110" ph="UPDATE b_eve... " />
+            <marker date="1499771580693" expanded="true" signature="113150:113217" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="113411:113465" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="120915:120921" ph=" " />
+            <marker date="1499771580693" expanded="true" signature="127203:127258" ph="SELECT * FRO... b_lang_domain" />
+            <marker date="1499771580693" expanded="true" signature="127816:127853" ph="SELECT * FRO... b_lang_domain" />
+            <marker date="1499771580693" expanded="true" signature="132056:132131" ph="SELECT 'x' F... b_language" />
+            <marker date="1499771580693" expanded="true" signature="132731:132774" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="132833:132905" ph="INSERT INTO b_language... " />
+            <marker date="1499771580693" expanded="true" signature="133418:133461" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="133577:133649" ph="UPDATE b_lan... " />
+            <marker date="1499771580693" expanded="true" signature="134481:134539" ph="DELETE FROM " />
+            <marker date="1499771580693" expanded="true" signature="143520:143563" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/otzyvy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsFNZbAnr98pSic01pnW+MKE1x3OLBaqSAJ5Ku6YzsPtTNfEkGtfkI+SqEkV+BGqXwiac6hvC55fBkYrUUT5ejdqaJQj2/+2LFpaCE33tZk43nKwGhb997LYg/LmIvIRfscmsLH1Tnsc7ByALSJjYkzQrIy3/3Ko2LHjWhM0epfNVzZSMhCaeqCkgdqi6Ojs+ssqAhlJOpsO3PGkqTZG7+keVU3S91ST4EsFUTHP/OL201VABinEMdc1wUWDhFcWnRw==</data>
+    <data>AAAAsJVTurLKnQ7cytpzg1ceLltHTWoxSbCYIiuK/26mMEvK+S9SJlI7mxq5swrnDN/v5Y8eToBpKn81UynNGx7bWTUkz5PxlKK7MoyoNyipwcrlejkzdYMJo/WvcaeXsX2jONvYV3eBnf3y3SFeXQiWZIOfIxHjRPqBjl3N3UaFdzE+GjmtCMC31LOs3OvKwBu3z04D6xHyNt/XEebDc18gY45FB7KSj3EPsLB3umcXESw35PvZ/FQgXxgdjlPWVQNdHQ==</data>
   </component>
 </project>
