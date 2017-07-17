@@ -29,7 +29,7 @@ $APPLICATION->SetTitle("Мебельная компания");
 );?>
 </p>
 <?php
-	$a = ['qwe', 123];
-	dump($a);
+	//$a = ['qwe', 123];
+	//dump($a);
 ?>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

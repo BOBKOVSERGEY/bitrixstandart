@@ -2,112 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4574b7b3-944b-4aa6-a900-36588caa2e5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/photo_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/photo_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/content/photo_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/10_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/10_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/11_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/11_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/12_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/12_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/1_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/1_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/2_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/2_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/3_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/3_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/4_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/4_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/5_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/5_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/6_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/6_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/7_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/7_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/8_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/8_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/9_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/example/9_s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/bc_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/ctrl-btns.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/ft_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/gui.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/hd_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/hp_shadow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/hp_shadow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/il_action.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/il_hit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/il_new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/nofoto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/nv_home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/pixel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/sb_action.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/sb_arrow_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/sb_arrow_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/sb_event.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/images/workarea_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_nav_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_nav_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancybox-x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancybox-y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancybox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/.styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.easing-1.3.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.fancybox-1.3.4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.fancybox-1.3.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.fancybox-1.3.4.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.mousewheel-3.0.4.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/jquery-1.8.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/jquery.carouFredSel-6.1.0-packed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/jquery.refineslide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/jquery.refineslide.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/js/slides.min.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/inner/template_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/.default/template_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/main/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/main/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/main/header.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/inner/template_styles.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/inner/footer.php" afterPath="$PROJECT_DIR$/local/templates/inner/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/inner/header.php" afterPath="$PROJECT_DIR$/local/templates/inner/header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/1.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/1.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/10.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/11.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/12.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/13.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/14.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/2.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/3.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/4.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/5.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/6.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/7.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/8.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/9.png" afterPath="$PROJECT_DIR$/local/templates/.default/content/9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/img1.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/img2.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/img3.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/img4.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/img4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/img5.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/img5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/photo_1.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/photo_1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/photo_2.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/photo_2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/content/photo_3.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/content/photo_3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/10_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/10_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/10_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/10_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/11_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/11_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/11_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/11_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/12_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/12_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/12_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/12_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/1_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/1_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/1_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/1_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/2_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/2_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/2_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/2_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/3_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/3_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/3_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/3_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/4_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/4_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/4_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/4_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/5_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/5_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/5_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/5_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/6_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/6_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/6_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/6_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/7_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/7_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/7_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/7_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/8_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/8_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/8_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/8_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/9_b.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/9_b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/example/9_s.jpg" afterPath="$PROJECT_DIR$/local/templates/.default/example/9_s.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/favicon.ico" afterPath="$PROJECT_DIR$/local/templates/.default/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/bc_arrow.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/bc_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/ctrl-btns.gif" afterPath="$PROJECT_DIR$/local/templates/.default/images/ctrl-btns.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/ft_bg.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/ft_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/gui.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/gui.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/hd_bg.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/hd_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/hp_shadow_left.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/hp_shadow_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/hp_shadow_right.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/hp_shadow_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/il_action.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/il_action.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/il_hit.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/il_hit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/il_new.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/il_new.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/loading.gif" afterPath="$PROJECT_DIR$/local/templates/.default/images/loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/nofoto.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/nofoto.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/nv_home.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/nv_home.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/pixel.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/pixel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/sb_action.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/sb_action.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/sb_arrow_close.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/sb_arrow_close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/sb_arrow_open.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/sb_arrow_open.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/sb_event.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/sb_event.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/images/workarea_bg.png" afterPath="$PROJECT_DIR$/local/templates/.default/images/workarea_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/blank.gif" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/blank.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_close.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_loading.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_loading.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_nav_left.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_nav_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_nav_right.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_nav_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_e.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_e.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_n.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_n.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_ne.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_ne.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_nw.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_nw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_s.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_s.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_se.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_se.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_sw.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_sw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_shadow_w.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_shadow_w.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_left.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_title_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_main.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_title_main.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_over.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_title_over.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancy_title_right.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancy_title_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancybox-x.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancybox-x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancybox-y.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancybox-y.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/fancybox.png" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/fancybox.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.easing-1.3.pack.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/jquery.easing-1.3.pack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.fancybox-1.3.4.css" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/jquery.fancybox-1.3.4.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.fancybox-1.3.4.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/jquery.fancybox-1.3.4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.fancybox-1.3.4.pack.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/jquery.fancybox-1.3.4.pack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/fancybox/jquery.mousewheel-3.0.4.pack.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/fancybox/jquery.mousewheel-3.0.4.pack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/functions.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/functions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/jquery-1.8.2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/jquery.carouFredSel-6.1.0-packed.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/jquery.carouFredSel-6.1.0-packed.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/jquery.refineslide.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/jquery.refineslide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/jquery.refineslide.min.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/jquery.refineslide.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/local/templates/inner/js/slides.min.jquery.js" afterPath="$PROJECT_DIR$/local/templates/.default/js/slides.min.jquery.js" />
     </list>
     <ignored path="bitrixstandart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,102 +129,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/init.php">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/main/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".top.menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.top.menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/HTML/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/inner/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="36" column="49" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/inner/template_styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="272">
+              <caret line="16" column="64" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="64" />
               <folding>
-                <element signature="e#2960#3623#2" expanded="true" />
-                <element signature="e#4457#5120#2" expanded="true" />
-                <element signature="e#6194#6857#2" expanded="true" />
-                <element signature="e#7707#8370#2" expanded="true" />
-                <element signature="e#9001#9664#2" expanded="true" />
-                <element signature="e#30605#31268#2" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/functions.php">
+      <file leaf-file-name="slides.min.jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/.default/js/slides.min.jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/php_interface/s1/init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/furniture_pale-blue/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="71" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="71" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5287" selection-start-line="19" selection-start-column="5287" selection-end-line="19" selection-end-column="5287" />
               <folding>
-                <marker date="1499772697385" expanded="true" signature="609:1014" ph="..." />
-                <marker date="1499772697385" expanded="true" signature="632:801" ph="{...}" />
-                <marker date="1499772697385" expanded="true" signature="827:1002" ph="{...}" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -232,12 +157,19 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/local/templates/inner/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="66" column="103" selection-start-line="66" selection-start-column="103" selection-end-line="66" selection-end-column="103" />
-              <folding>
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="19" column="6" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -252,7 +184,6 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/bitrix/php_interface/include/functions.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/bitrix/php_interface/include/siteCloused.php" />
         <option value="$PROJECT_DIR$/bitrix/php_interface/s1/init.php" />
         <option value="$PROJECT_DIR$/bitrix/php_interface/init.php" />
@@ -263,6 +194,11 @@
         <option value="$PROJECT_DIR$/local/templates/inner/template_styles.css" />
         <option value="$PROJECT_DIR$/local/templates/inner/footer.php" />
         <option value="$PROJECT_DIR$/local/templates/inner/header.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/template_style.css" />
+        <option value="$PROJECT_DIR$/local/templates/main/footer.php" />
+        <option value="$PROJECT_DIR$/local/templates/main/header.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/js/slides.min.jquery.js" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -274,8 +210,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="width" value="1011" />
+    <option name="x" value="85" />
+    <option name="width" value="1522" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -332,7 +268,107 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inner" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="furniture_pale-blue" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrixstandart" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,54 +383,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_interface" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrixstandart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrixstandart" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_interface" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="s1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrixstandart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrixstandart" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_interface" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,10 +405,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\OpenServer\domains\bitrixstandart\local\templates\.default" />
       <recent name="G:\OpenServer\domains\bitrixstandart\local\templates" />
       <recent name="G:\OpenServer\domains\bitrixstandart\local" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OpenServer\domains\bitrixstandart\local\templates\.default" />
       <recent name="G:\OpenServer\domains\bitrixstandart\local\templates\inner" />
       <recent name="G:\OpenServer\domains\bitrixstandart\local" />
     </key>
@@ -488,23 +478,24 @@
       <workItem from="1500020074500" duration="6089000" />
       <workItem from="1500281193909" duration="292000" />
       <workItem from="1500281616382" duration="117000" />
-      <workItem from="1500281867051" duration="4455000" />
+      <workItem from="1500281867051" duration="7970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16304000" />
+    <option name="totallyTimeSpent" value="19819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="0" width="1011" height="867" extended-state="0" />
+    <frame x="85" y="0" width="1522" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23659305" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25341746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.053351574" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1867305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26129943" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -515,7 +506,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -906,52 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="e#2960#3623#2" expanded="true" />
-            <element signature="e#4457#5120#2" expanded="true" />
-            <element signature="e#6194#6857#2" expanded="true" />
-            <element signature="e#7707#8370#2" expanded="true" />
-            <element signature="e#9001#9664#2" expanded="true" />
-            <element signature="e#30605#31268#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/furniture_pale-blue/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="71" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="71" />
-          <folding>
-            <marker date="1499772697385" expanded="true" signature="609:1014" ph="..." />
-            <marker date="1499772697385" expanded="true" signature="632:801" ph="{...}" />
-            <marker date="1499772697385" expanded="true" signature="827:1002" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/inner/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="49" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/inner/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="66" column="103" selection-start-line="66" selection-start-column="103" selection-end-line="66" selection-end-column="103" />
-          <folding>
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -972,10 +916,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/furniture_pale-blue/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="71" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="71" />
+          <folding>
+            <marker date="1499772697385" expanded="true" signature="609:1014" ph="..." />
+            <marker date="1499772697385" expanded="true" signature="632:801" ph="{...}" />
+            <marker date="1499772697385" expanded="true" signature="827:1002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/php_interface/include/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/furniture_pale-blue/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/inner/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="342" column="8" selection-start-line="291" selection-start-column="4" selection-end-line="342" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/js/jquery.refineslide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="744" column="24" selection-start-line="744" selection-start-column="21" selection-end-line="744" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/template_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="210" column="6" selection-start-line="210" selection-start-column="3" selection-end-line="210" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/inner/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="6" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/main/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/js/slides.min.jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5287" selection-start-line="19" selection-start-column="5287" selection-end-line="19" selection-end-column="5287" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state relative-caret-position="504">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding />
         </state>
       </provider>

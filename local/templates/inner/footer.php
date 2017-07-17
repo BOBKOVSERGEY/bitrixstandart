@@ -34,13 +34,13 @@
     <p>Семинар производителей мебели России и СНГ, Обсуждение тенденций.</p>
   </div>
   <div class="sb_action">
-    <a href=""><img src="<?=SITE_TEMPLATE_PATH;?>/content/11.png" alt=""/></a>
+    <a href=""><img src="/local/templates/.default/content/11.png" alt=""/></a>
     <h4>Акция</h4>
     <h5><a href="">Мебельная полка всего за 560 Р</a></h5>
     <a href="" class="sb_action_more">Подробнее &rarr;</a>
   </div>
   <div class="sb_reviewed">
-    <img src="<?=SITE_TEMPLATE_PATH;?>/content/8.png" class="sb_rw_avatar" alt=""/>
+    <img src="/local/templates/.default/content/8.png" class="sb_rw_avatar" alt=""/>
     <span class="sb_rw_name">Сергей Антонов</span>
     <span class="sb_rw_job">Руководитель финансового отдела “Банк+”</span>
     <p>“Покупал офисные стулья и столы, остался очень доволен! Низкие цены, быстрая доставка, обслуживание на высоте! Спасибо!”</p>
@@ -104,9 +104,9 @@
   </div>
 </div>
 </div>
-<script type="text/javascript" src="<?=SITE_TEMPLATE_PATH;?>/js/jquery-1.8.2.min.js"></script>
-<script type="text/javascript" src="<?=SITE_TEMPLATE_PATH;?>/js/slides.min.jquery.js"></script>
-<script type="text/javascript" src="<?=SITE_TEMPLATE_PATH;?>/js/jquery.carouFredSel-6.1.0-packed.js"></script>
-<script type="text/javascript" src="<?=SITE_TEMPLATE_PATH;?>/js/functions.js"></script>
+<script type="text/javascript" src="/local/templates/.default/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/local/templates/.default/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/local/templates/.default/js/jquery.carouFredSel-6.1.0-packed.js"></script>
+<script type="text/javascript" src="/local/templates/.default/js/functions.js"></script>
 </body>
 </html>

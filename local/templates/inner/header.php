@@ -11,7 +11,8 @@ $curPage = $APPLICATION->GetCurPage(true);
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title><? $APPLICATION->ShowTitle(); ?></title>
-  <link rel="shortcut icon" type="image/x-icon" href="<?=SITE_TEMPLATE_PATH;?>/favicon.ico"/>
+  <link rel="stylesheet" href="/local/templates/.default/template_style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="/local/templates/.default/favicon.ico"/>
 </head>
 <body>
 <div id="panel">
@@ -64,7 +65,7 @@ $curPage = $APPLICATION->GetCurPage(true);
       </table>
       <div class="nv_topnav">
         <ul>
-          <li><a href=""   class="menu-img-fon"  style="background-image: url(<?=SITE_TEMPLATE_PATH;?>/images/nv_home.png);" ><span></span></a></li>
+          <li><a href=""   class="menu-img-fon"  style="background-image: url(/local/templates/.default/images/nv_home.png);" ><span></span></a></li>
           <li><a href=""><span>Компания</span></a>
             <ul>
               <li><a href="">Пункт 1</a></li>
