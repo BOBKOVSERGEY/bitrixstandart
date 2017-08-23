@@ -4,7 +4,7 @@ $APPLICATION->SetTitle("Продукция");
 ?>
 
 <?
-$APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y");
+$APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y"); // выводить скрывать навигационную цепочку
 $APPLICATION->IncludeComponent("bitrix:catalog", ".default", array(
 	"IBLOCK_TYPE" => "products",
 	"IBLOCK_ID" => "2",
